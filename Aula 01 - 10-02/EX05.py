@@ -1,7 +1,7 @@
 # EXERCÍCIO 05
 
 # linha para separar as informações e facilitar a visulização do programa no terminal
-linha = ('--------------------')
+linha = '--------------------'
 # entrada
 nome = str(input('Qual o seu nome? ')).upper()
 idade = int(input('Qual a sua idade? '))

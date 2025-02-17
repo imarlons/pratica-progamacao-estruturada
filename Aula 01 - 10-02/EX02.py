@@ -1,7 +1,7 @@
 # EXERCÍCIO 02
 
 # linha para separar as informações e facilitar a visulização do programa no terminal
-linha = ('--------------------')
+linha = '--------------------'
 # entrada
 primeiroValor = float(input('Infome o primeiro valor: ')) # o tipo da informação foi definido como float, caso algum número decimal seja informado
 segundoValor = float(input('Infome o segundo valor: '))

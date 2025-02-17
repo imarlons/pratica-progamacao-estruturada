@@ -1,7 +1,7 @@
 # EXERCÍCIO 07
 
 # linha para separar as informações e facilitar a visulização do programa no terminal
-linha = ('--------------------')
+linha = '--------------------'
 # entrada
 diaAtual = int(input('Considerando que o mês possui somente 30 dias. Informe o dia do mês: '))
 mesAtual =  int(input('Considerando que Janeiro = 1, Fevereiro = 2... Informe o número do mês: '))

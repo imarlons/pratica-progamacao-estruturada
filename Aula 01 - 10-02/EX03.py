@@ -1,7 +1,7 @@
 # EXERCÍCIO 03
 
 # linha para separar as informações e facilitar a visulização do programa no terminal
-linha = ('--------------------')
+linha = '--------------------'
 # entrada
 numeroDeCavalos = int(input('Informe a quantidade de cavalos que você possui no seu haras: '))
 print(linha)

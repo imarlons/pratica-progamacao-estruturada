@@ -1,7 +1,7 @@
 # EXERCÍCIO 04
 
 # linha para separar as informações e facilitar a visulização do programa no terminal
-linha = ('--------------------')
+linha = '--------------------'
 # entrada
 quantidadeDePao = int(input('Quantos pães foram vendidos hoje? '))
 quantidadeDeBroa = int(input('Quantas broas foram vendidas hoje? '))

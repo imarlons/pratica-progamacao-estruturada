@@ -1,7 +1,7 @@
 # EXERCÍCIO 08
 
 # linha para separar as informações e facilitar a visulização do programa no terminal
-linha = ('--------------------')
+linha = '--------------------'
 # entrada
 salarioInicial = float(input('Informe o seu salário: '))
 

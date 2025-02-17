@@ -1,7 +1,7 @@
 # EXERCÍCIO 01
 
 # linha para separar as informações e facilitar a visulização do programa no terminal
-linha = ('--------------------')
+linha = '--------------------'
 print('--- FICHA CADASTRAL ---')
 nomeCompleto = input('Informe seu nome completo: ')
 idade = int(input('Informe a sua idade: '))

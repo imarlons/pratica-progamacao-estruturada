@@ -1,3 +1,5 @@
+# EXERCÍCIO 02
+
 # faça um programa que peça um número e então mostre a mensagem "o número informado foi [número].
 
 # entrada

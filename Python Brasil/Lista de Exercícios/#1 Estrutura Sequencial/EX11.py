@@ -1,3 +1,5 @@
+# EXERCÍCIO 11
+
 # faça um Programa que peça 2 números inteiros e um número real. 
 # Calcule e mostre:
 # a) o produto do dobro do primeiro com metade do segundo .

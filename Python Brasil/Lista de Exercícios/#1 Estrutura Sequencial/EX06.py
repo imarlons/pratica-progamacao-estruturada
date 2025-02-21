@@ -1,3 +1,5 @@
+# EXERCÍCIO 06
+
 # faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 # fórmula: (A = π r²) 
 # π = 3.14

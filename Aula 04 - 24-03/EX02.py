@@ -11,8 +11,8 @@ def calcularIngredientes():
     suco = (2 / 10) * litrosRefresco #20% do refresco / 2 partes
     
     print('Para preparar {} litros de refresco, você precisará de:'.format(litrosRefresco))
-    print('{:.2f} litros de água.'.format(agua))
-    print('{:.2f} litros de suco.'.format(suco))
+    print('{:.3f} litros de água.'.format(agua))
+    print('{:.3f} litros de suco.'.format(suco))
 
 calcularIngredientes()
 
